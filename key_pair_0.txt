@@ -1,0 +1,31 @@
+pubkey: 2zFcueywGmAUAvPN99t4X66a9LuEtygemSWot3awbk12: Success
+
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+Password: 
+tansoonchuan
+Private Key:
+swap tennis fork bring doll soccer math hand position supreme museum hotel
+
+solana airdrop 1 EJCAvgQ2j9KrAop3yjKp87ECwSgLYFtroswRv3FJdhJD --url https://api.devnet.solana.com
+
+Phantom Wallet Password:
+tansoonchuan
+
+solana config set --keypair SolanaWallet/my-keypair.json
+
+Token creation:
+spl-token create-token
+
+Create new account:
+
+spl-token create-account 6aKDPgT5EnZ9BuveFPcV8oDBGDmBW6cbqwdqpYJMg4HQ
+
+Second Account for token
+
+Creating account 2gPre2jwSLYyiowWqUhoXcatR8uBzrjZg9cakvCgznGH
+
+Signature: 3VniAoMMJLkK7pRZfEZWbduY3MScRDbvqnYPshqHg9WrjAXAE8uLtKSLTjv4gmQ5pgbvgn8Z5EVaYjhSfNgo9ZbP
+
+Mint tokens
+
+spl-token mint 6aKDPgT5EnZ9BuveFPcV8oDBGDmBW6cbqwdqpYJMg4HQ 100
